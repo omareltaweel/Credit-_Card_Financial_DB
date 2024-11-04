@@ -1,12 +1,15 @@
 # Credit_Card_Financial_DB
 Power BI Dashboard Project 
 
-Objective
+Objective:
+
 The aim of this project is to create a comprehensive weekly dashboard for credit card operations. The dashboard provides real-time insights and key performance metrics, enabling stakeholders to monitor and analyze credit card transactions effectively.
 
 Tools Used
 MS SQL Server , Microsoft Excel , Microsoft Power BI.
+
 Steps
+
 1-Import Data into MS SQL Server
 Load raw data related to credit card operations (e.g., transactions, user details, etc.) into MS SQL Server for efficient storage and query execution.
 
