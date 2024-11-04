@@ -1,2 +1,2 @@
-# Credit-_Card_Financial_DB
+# Credit_Card_Financial_DB
 Power BI Dashboard Project 
